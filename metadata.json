@@ -1,6 +1,6 @@
 {
-  "name": "QuickEvent - 超簡單活動邀約",
-  "description": "一個專為朋友聚會設計的活動邀約平台，支援管理模式、訪客報名，並提供一鍵產生通訊軟體『接龍』格式的功能。",
+  "name": "DinoEvent - 恐龍揪團趣",
+  "description": "最可愛、最直覺的活動揪團工具。支援一鍵接龍、自動導航與活動募款，專為親友聚會設計。",
   "requestFramePermissions": [
     "geolocation"
   ]
